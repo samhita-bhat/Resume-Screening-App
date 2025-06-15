@@ -7,4 +7,4 @@ A Streamlit web application that classifies uploaded resumes into job categories
 - Supports PDF, DOCX, TXT
 
 ## Demo
-![Demo Screenshot](image/Demo.jpg)
+![Demo Screenshot](image/demo.jpg)
